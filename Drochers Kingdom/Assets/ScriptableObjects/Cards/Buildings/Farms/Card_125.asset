@@ -15,4 +15,4 @@ MonoBehaviour:
   id: 125
   sprite: {fileID: 21300000, guid: 545fd257c2b12bd4bb116f305dbad828, type: 3}
   description: Combo
-  BuildingPrefab: {fileID: 0}
+  building: {fileID: 11400000, guid: 40dea146a7e8863459527fa19a63d7e2, type: 2}

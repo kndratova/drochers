@@ -15,4 +15,4 @@ MonoBehaviour:
   id: 123
   sprite: {fileID: 21300000, guid: 55dd95389e499cd40ab30aed9fe66dc6, type: 3}
   description: Fish
-  BuildingPrefab: {fileID: 0}
+  building: {fileID: 11400000, guid: 458b2fa0781176a4aa4f284daeab51c2, type: 2}

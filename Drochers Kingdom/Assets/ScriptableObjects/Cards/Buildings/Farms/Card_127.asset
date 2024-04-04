@@ -15,4 +15,4 @@ MonoBehaviour:
   id: 127
   sprite: {fileID: 21300000, guid: b406d9662b8bdff45a716e8a59d81245, type: 3}
   description: Iron
-  BuildingPrefab: {fileID: 0}
+  building: {fileID: 11400000, guid: c528fa18dc8d03847a114bb26821ba51, type: 2}

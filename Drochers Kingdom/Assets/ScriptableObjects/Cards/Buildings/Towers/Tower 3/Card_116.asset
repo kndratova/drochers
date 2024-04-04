@@ -15,4 +15,4 @@ MonoBehaviour:
   id: 116
   sprite: {fileID: 21300000, guid: 5fea1ebe4e346f84895b776d5ce2431d, type: 3}
   description: Tower 3
-  BuildingPrefab: {fileID: 0}
+  building: {fileID: 11400000, guid: 004083edbf78194429bbd07c2826bf1a, type: 2}

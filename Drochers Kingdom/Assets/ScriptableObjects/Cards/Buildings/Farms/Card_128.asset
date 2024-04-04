@@ -15,4 +15,4 @@ MonoBehaviour:
   id: 128
   sprite: {fileID: 21300000, guid: 8fc7ca66dbb521842b3a7265fb32e3d2, type: 3}
   description: Carrot
-  BuildingPrefab: {fileID: 0}
+  building: {fileID: 11400000, guid: cedd48436f73e1a428e6db447b457739, type: 2}

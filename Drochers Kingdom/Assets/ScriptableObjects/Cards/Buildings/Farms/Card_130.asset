@@ -15,4 +15,4 @@ MonoBehaviour:
   id: 130
   sprite: {fileID: 21300000, guid: ce6a8422ccbe74047b0c17d003a82e0f, type: 3}
   description: Ore
-  BuildingPrefab: {fileID: 0}
+  building: {fileID: 11400000, guid: 5bbe43885e5347246bddfeab68f639b7, type: 2}

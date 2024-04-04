@@ -15,4 +15,4 @@ MonoBehaviour:
   id: 129
   sprite: {fileID: 21300000, guid: 7bbd61ec6c7603a4ea1419c696783f8a, type: 3}
   description: Gem
-  BuildingPrefab: {fileID: 0}
+  building: {fileID: 11400000, guid: c23e09e5c34cd5748a6fb981acdafdb1, type: 2}

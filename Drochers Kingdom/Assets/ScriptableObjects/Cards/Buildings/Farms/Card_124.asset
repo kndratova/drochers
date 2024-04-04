@@ -15,4 +15,4 @@ MonoBehaviour:
   id: 124
   sprite: {fileID: 21300000, guid: b96113dbb61be7647bf10241f81d8518, type: 3}
   description: Mushroom
-  BuildingPrefab: {fileID: 0}
+  building: {fileID: 11400000, guid: eadcdb061e393f649b61c518cbad10b1, type: 2}

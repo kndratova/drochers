@@ -14,4 +14,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   id: 165
   sprite: {fileID: 21300000, guid: 7d1a6d4eb44992a4f9e20fd8bcb5af7d, type: 3}
-  description: 
+  description: Parchment Card
