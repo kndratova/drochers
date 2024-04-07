@@ -41,6 +41,7 @@ namespace Game
         {
             _field.Build(_card.Building);
             cardStack.UseCard(cardStack, _card);
+            HideBuildItems(cardStack);
         }
     }
 }
