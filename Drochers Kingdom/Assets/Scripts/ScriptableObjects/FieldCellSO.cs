@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace Field
+namespace ScriptableObjects
 {
     public class FieldCellSO : ScriptableObject
     {

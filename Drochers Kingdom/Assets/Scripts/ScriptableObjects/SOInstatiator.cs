@@ -1,16 +1,14 @@
-using System.Collections;
-using System.Collections.Generic;
-using Field;
-using UnityEditor;
 using UnityEngine;
 
-public class SOInstatiator : MonoBehaviour
+namespace ScriptableObjects
 {
-    [ContextMenu("Generate Cards SO")]
-    private void CreateCardPrefabs()
+    public class SOInstatiator : MonoBehaviour
     {
+        [ContextMenu("Generate Cards SO")]
+        private void CreateCardPrefabs()
+        {
 
-        /*int counter = 1;
+            /*int counter = 1;
         for (char j = 'a'; j < 'k'; j++)
         {
             int raw = 1;
@@ -27,7 +25,7 @@ public class SOInstatiator : MonoBehaviour
             }
         }*/
 
-        /*for (int i = 101; i < 143; i++)
+            /*for (int i = 101; i < 143; i++)
         {
             BuildingCardSO example = ScriptableObject.CreateInstance<BuildingCardSO>();
             example.id = i;
@@ -44,7 +42,7 @@ public class SOInstatiator : MonoBehaviour
             AssetDatabase.CreateAsset(example, path);
         }
         */
-        /*var counter = 1;
+            /*var counter = 1;
         for (char i = 'a'; i < 'k'; i++)
         {
             for (int j = 1; j < 11; j++)
@@ -59,5 +57,6 @@ public class SOInstatiator : MonoBehaviour
         }
         AssetDatabase.SaveAssets();
         AssetDatabase.Refresh();*/
+        }
     }
 }
